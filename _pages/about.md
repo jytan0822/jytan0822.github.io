@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://ieor.columbia.edu/">Department of Industrial Engineering and Operations Research, Columbia University</a>. 500 W. 120th Street, New York, NY, 10027
 
 profile:
   align: right
@@ -25,4 +25,4 @@ latest_posts: false
   #limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am Jonathan Tan, and I am a second-year PhD student in the Department of Industrial Engineering and Operations Research in Columbia University. I am fortunate to be co-advised by Prof. <a href="http://www.columbia.edu/~ae2516/">Adam Elmachtoub</a> and Prof. <a href="https://ykanoria.github.io/">Yash Kanoria</a>. Prior to joining Columbia, I recieved my bachelor's degree at School of Mathematical Sciences, Peking University in 2024.
+Welcome! I am Jonathan Tan, and I am a second-year PhD student in the <a href="https://ieor.columbia.edu/">Department of Industrial Engineering and Operations Research</a> at Columbia University. I am fortunate to be co-advised by Prof. <a href="http://www.columbia.edu/~ae2516/">Adam Elmachtoub</a> and Prof. <a href="https://ykanoria.github.io/">Yash Kanoria</a>. Prior to joining Columbia, I recieved my bachelor's degree in the <a href="https://math.pku.edu.cn/">School of Mathematical Sciences, Peking University</a> in 2024.
