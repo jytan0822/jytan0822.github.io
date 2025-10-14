@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://ieor.columbia.edu/">Department of Industrial Engineering and Operations Research, Columbia University</a>. 500 W. 120th Street, New York, NY, 10027
+subtitle:
 
 profile:
   align: right
