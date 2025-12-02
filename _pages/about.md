@@ -24,7 +24,6 @@ latest_posts: false
   #scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   #limit: 3 # leave blank to include all the blog posts
 ---
-
 Welcome! I am Jonathan Tan, and I am a second-year PhD student at the
 <a href="https://ieor.columbia.edu/">Department of Industrial Engineering and
 Operations Research</a> at Columbia University. I am fortunate to be co-advised
