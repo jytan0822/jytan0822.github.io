@@ -32,3 +32,7 @@ Prof. <a href="https://ykanoria.github.io/">Yash Kanoria</a>. Prior to joining
 Columbia, I recieved my bachelor's degree at the
 <a href="https://www.math.pku.edu.cn/index.htm">School of Mathematical
 Sciences, Peking University</a> in 2024.
+
+My research focuses on revenue management and pricing. I am interested in 
+applying queueing theory, mechanism design and optimization to
+design efficient and socially responsible pricing policies for service systems.
