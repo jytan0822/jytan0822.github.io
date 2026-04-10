@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Email: jyt2123@columbia.edu</p>
 
-selected_papers: false
+selected_papers: true
 social: false
 
 announcements: false
