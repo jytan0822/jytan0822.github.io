@@ -24,7 +24,7 @@ latest_posts: false
   #scrollable: true
   #limit: 3
 ---
-Welcome! I am Jonathan Tan, and I am a PhD student at the
+Welcome! My name is Jonathan Tan, and I am a PhD student at the
 <a href="https://ieor.columbia.edu/">Department of Industrial Engineering and
 Operations Research</a> at Columbia University. I am fortunate to be co-advised
 by Prof. <a href="http://www.columbia.edu/~ae2516/">Adam Elmachtoub</a> and
