@@ -24,7 +24,7 @@ latest_posts: false
   #scrollable: true
   #limit: 3
 ---
-Welcome! I am Jonathan Tan, and I am a second-year PhD student at the
+Welcome! I am Jonathan Tan, and I am a PhD student at the
 <a href="https://ieor.columbia.edu/">Department of Industrial Engineering and
 Operations Research</a> at Columbia University. I am fortunate to be co-advised
 by Prof. <a href="http://www.columbia.edu/~ae2516/">Adam Elmachtoub</a> and
@@ -35,4 +35,4 @@ Sciences, Peking University</a> in 2024.
 
 My research focuses on revenue management and pricing. I am interested in 
 applying queueing theory, mechanism design and optimization to
-design efficient and socially responsible pricing policies for service systems.
+design and analyze markets and service systems enabled by modern AI technologies.
