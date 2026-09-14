@@ -33,4 +33,4 @@ Columbia, I recieved my bachelor's degree at the
 <a href="https://www.math.pku.edu.cn/index.htm">School of Mathematical
 Sciences, Peking University</a> in 2024.
 
-My research focuses on pricing and market design. I am interested in designing and analyzing service systems that are enabled by modern AI technologies, and applying queueing theory, mechanism design and optimization to develop efficient and socially responsible policies for these systems.
+My research focuses on pricing and market design. I am interested in designing and analyzing service systems enabled by modern AI technologies, and in applying queueing theory, mechanism design and optimization to develop efficient and socially responsible policies for these systems.
