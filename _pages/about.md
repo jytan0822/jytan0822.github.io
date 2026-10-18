@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: Jonathan_Tan.jpg
+  image: Jonathan_Tan_1.jpg
   image_circular: false
   more_info: >
     <p>Email: jyt2123@columbia.edu</p>
