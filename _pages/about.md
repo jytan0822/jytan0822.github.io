@@ -14,16 +14,17 @@ profile:
 selected_papers: true
 social: false
 
-announcements: false
-  #enabled: true
-  #scrollable: true
-  #limit: 5
+announcements:
+  enabled: false
+  scrollable: true
+  limit: 5
 
-latest_posts: false
-  #enabled: true
-  #scrollable: true
-  #limit: 3
+latest_posts:
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
+
 Welcome! My name is Jonathan Tan, and I am a PhD student at the
 <a href="https://ieor.columbia.edu/">Department of Industrial Engineering and
 Operations Research</a> at Columbia University. I am fortunate to be co-advised
