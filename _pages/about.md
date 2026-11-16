@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle:
 
@@ -12,7 +12,7 @@ profile:
     <p>Email: jyt2123@columbia.edu</p>
 
 selected_papers: true
-social: false
+social: true
 
 announcements:
   enabled: false
@@ -30,7 +30,7 @@ Welcome! My name is Jonathan Tan, and I am a PhD student at the
 Operations Research</a> at Columbia University. I am fortunate to be co-advised
 by Prof. <a href="http://www.columbia.edu/~ae2516/">Adam Elmachtoub</a> and
 Prof. <a href="https://ykanoria.github.io/">Yash Kanoria</a>. Prior to joining
-Columbia, I recieved my bachelor's degree at the
+Columbia, I received my bachelor's degree from the
 <a href="https://www.math.pku.edu.cn/index.htm">School of Mathematical
 Sciences, Peking University</a> in 2024.
 
