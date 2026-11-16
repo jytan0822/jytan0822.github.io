@@ -1,10 +1,3 @@
-# Coauthor names in publications become links to these pages.
-# Key = coauthor's last name in lowercase; firstname lists the spellings used in papers.bib.
-
-"elmachtoub":
-  - firstname: ["Adam", "A.", "Adam N.", "A. N."]
-    url: http://www.columbia.edu/~ae2516/
-
-"kanoria":
-  - firstname: ["Yash", "Y."]
-    url: https://ykanoria.github.io/
+# Coauthor names in publications become links to the pages listed here.
+# Intentionally left empty: author names are shown without links.
+{}
