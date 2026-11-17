@@ -49,6 +49,11 @@ table.table a {
   }
 }
 
+// Theme-colored links in page content are bold.
+article a {
+  font-weight: bold;
+}
+
 .table-dark {
   background-color: transparent;
   &.table-bordered {
